@@ -41,7 +41,9 @@ groq
 ##  Setup Instruction
 
 python -m venv medscan_env
+
 source medscan_env/bin/activate  # On Windows: medscan_env\Scripts\activate
+
 pip install -r requirements.txt
 
 
